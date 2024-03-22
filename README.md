@@ -18,7 +18,7 @@ I'm a curious soul with a relentless drive to understand how things work. From t
 ## Let's Connect
 I'm always on the lookout for fellow tech enthusiasts, collaborators, and kindred spirits. Whether you're a seasoned developer, a curious hobbyist, or just someone who loves geeking out over the latest tech trends, don't hesitate to reach out. Let's embark on this tech journey together and see where it takes us!
 
-Connect with me on [Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/in/), or drop me an email at [your@email.com](mailto:hasty.hedging753@passinbox.com). Can't wait to geek out with you!
+Connect with me on [Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/in/), or drop me an email at [Email Me](mailto:hasty.hedging753@passinbox.com). Can't wait to geek out with you!
 
 Keep coding, keep exploring, and never stop dreaming big!
 
