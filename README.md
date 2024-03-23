@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my tech haven! I'm Al Moktadiru, a passionate tech enthusiast on a journey through the digital landscape. Whether it's coding, tinkering with gadgets, or exploring the latest advancements in technology, I'm always up for the challenge.
+Welcome to my tech haven! I'm HastyJeans, a passionate tech enthusiast on a journey through the digital landscape. Whether it's coding, tinkering with gadgets, or exploring the latest advancements in technology, I'm always up for the challenge.
 
 ## About Me
 I'm a curious soul with a relentless drive to understand how things work. From the intricate algorithms powering our favorite apps to the hardware beneath our fingertips, I thrive on unraveling the mysteries of technology. With a background in Web Development, I bring a unique perspective to the table, constantly seeking new ways to innovate and create.
